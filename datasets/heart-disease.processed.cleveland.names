@@ -1,0 +1,2 @@
+age,sex,cp,trestbps,chol,fbs,restecg,thalach,exang,oldpeak,slope,ca,thal,class
+numerical,categorical,categorical,numerical,numerical,categorical,categorical,numerical,categorical,numerical,categorical,categorical,categorical,label

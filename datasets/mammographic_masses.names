@@ -1,0 +1,2 @@
+BI-RADS assessment,Age,Shape,Margin,Density,class
+categorical,numerical,categorical,categorical,categorical,class
